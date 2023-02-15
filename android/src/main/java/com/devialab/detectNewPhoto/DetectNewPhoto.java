@@ -20,7 +20,7 @@ public class DetectNewPhoto extends ReactContextBaseJavaModule {
         super(reactContext);
     }
 
-    @Override
+    //@Override
     public String getName() {
         return "DetectNewPhoto";
     }
